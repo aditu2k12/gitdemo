@@ -1,0 +1,21 @@
+skill_level,mandatory_skills,optional_skills
+Computer Vision L1,"['Multi Layered Perceptron','image processing']",['nlp']
+Computer Vision L2,"['Backpropagation','lenet']","['yolo','ssd']"
+Computer Vision L3,['yolo'],"['a','b']"
+Computer Vision L4,"['c','d']",['x']
+Machine Learning L1,"['e','f']","['a','b','c']"
+Machine Learning L2,"['stats','probability']",['modelling']
+Machine Learning L3,"['deep learning','pytorch','keras']","['tensorflow','caffe']"
+Machine Learning L4,"['tensorflow','MTECH']",['PHD']
+AI Ops L1,['DOCKER'],"['a','b']"
+AI Ops L2,"['c','d']",['x']
+AI Ops L3,"['stats','probability']",['modelling']
+AI Ops L4,"['Multi Layered Perceptron','image processing']",['nlp']
+MlOps On Open Source L1,"['e','f']","['a','b','c']"
+MlOps On Open Source L2,"['deep learning','pytorch','keras']","['tensorflow','caffe']"
+MlOps On Open Source L3,['DOCKER'],"['a','b']"
+MlOps On Open Source L4,['yolo'],"['a','b']"
+MlOps On AWS L1,"['Backpropagation','lenet']","['yolo','ssd']"
+MlOps On AWS L2,"['stats','probability']",['modelling']
+MlOps On AWS L3,"['tensorflow','MTECH']",['PHD']
+MlOps On AWS L4,['yolo'],"['a','b']"
