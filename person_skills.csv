@@ -1,0 +1,15 @@
+name,mandaotory_skills,optional_skills
+Aditya,Multi Layered Perceptron,nlp
+Aditya,image processing,spacy
+Aditya,video processing,
+Bob,stats,modelling
+Bob,probability,tuning
+Bob,linear algebra,
+Prakash,tensorflow,PHD
+Prakash,MTECH,
+Prakash,pytorch,
+Susmit,deep learning,tensorflow
+Susmit,pytorch,caffe
+Susmit,keras,cv
+Dhiraj,Backpropagation,yolo
+Dhiraj,lenet,ssd
