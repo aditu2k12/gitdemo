@@ -1,6 +1,0 @@
-name,phone,experience,location,domain,skill_level,mandatory_skills,optional_skills
-Aditya,12345,4,delhi,insurance,Computer Vision L1,"Multi Layered Perceptron','image processing','video processing'","nlp','spacy'"
-Bob,34568,10,delhi,banking,Machine Learning L1,"stats','probability','linear algebra'","modelling','tuning'"
-Prakash,98765,5,mumbai,insurance,Machine Learning L1,"tensorflow','MTECH','pytorch'",PHD'
-Susmit,12345,7,bangalore,healthcare,MlOps On Open Source L2,"deep learning','pytorch','keras'","tensorflow','caffe','cv'"
-Dhiraj,12345,8,mumbai,banking,MlOps On AWS L1,"Backpropagation','lenet'","yolo','ssd'"
