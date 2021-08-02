@@ -1,0 +1,6 @@
+name,phone,experience,location,domain,current_project,release_date,skill_level,mandatory_skills,optional_skills
+Aditya,12345,4,delhi,insurance,Fedex,8/31/2021,Computer Vision L1,"Multi Layered Perceptron','image processing','video processing'","nlp','spacy'"
+Bob,34568,10,delhi,banking,Siemens,9/15/2021,Machine Learning L1,"stats','probability','linear algebra'","modelling','tuning'"
+Prakash,98765,5,mumbai,insurance,Fedex,8/20/2021,Machine Learning L1,"tensorflow','MTECH','pytorch'",PHD'
+Susmit,12345,7,bangalore,healthcare,Nokia,8/31/2021,MlOps On Open Source L2,"deep learning','pytorch','keras'","tensorflow','caffe','cv'"
+Dhiraj,12345,8,mumbai,banking,Siemens,8/20/2021,MlOps On AWS L1,"Backpropagation','lenet'","yolo','ssd'"
