@@ -1,0 +1,37 @@
+skill_level,skills
+Computer Vision L1,a
+Computer Vision L1,b
+Computer Vision L2,c
+Computer Vision L2,d
+Computer Vision L3,e
+Computer Vision L3,f
+Computer Vision L4,g
+Computer Vision L4,h
+Machine Learning L1,Statistical analysis 
+Machine Learning L1,hypothesis testing
+Machine Learning L2,EDA
+Machine Learning L2,Modelling Techniques
+Machine Learning L2,Dimensionality Reduction
+Machine Learning L3,Supervised learning
+Machine Learning L3,Unsupervised learning
+Machine Learning L3,Recommendation System
+Machine Learning L4,Deep learning
+Machine Learning L4,NLP
+Machine Learning L4,Ensemble Techniques
+Machine Learning L4,Cognitive Computing
+MlOps On Open Source L1,e
+MlOps On Open Source L1,f
+MlOps On Open Source L2,g
+MlOps On Open Source L2,h
+MlOps On Open Source L3,a
+MlOps On Open Source L3,b
+MlOps On Open Source L4,c
+MlOps On Open Source L4,d
+MlOps On AWS L1,p
+MlOps On AWS L1,q
+MlOps On AWS L2,r
+MlOps On AWS L2,s
+MlOps On AWS L3,x
+MlOps On AWS L3,y
+MlOps On AWS L4,s
+MlOps On AWS L4,t
