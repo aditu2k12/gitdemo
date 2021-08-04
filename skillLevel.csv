@@ -1,0 +1,6 @@
+skill_level,Level_1,Level_2,Level_3,Level_4
+Computer Vision L1,"a,b","c,d","e,f","g,h"
+Machine Learning L1,"Statistical analysis , hypothesis testing","EDA , Modelling Techniques , Dimensionality Reduction","Supervised learning, Unsupervised learning , Recommendation System","Deep learning , NLP , Ensemble Techniques ,Cognitive Computing"
+Machine Learning L1,"Statistical analysis , hypothesis testing","EDA , Modelling Techniques , Dimensionality Reduction","Supervised learning, Unsupervised learning , Recommendation System","Deep learning , NLP , Ensemble Techniques, Cognitive Computing"
+MlOps On Open Source L2,"e,f","g,h","a,b","c,d"
+MlOps On AWS L1,"p,q","r,s","x,y","s,t"
