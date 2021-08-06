@@ -1,4 +1,30 @@
-domain,name
-insurance,"Aditya,Prakash"
-banking,"Bob,Dhiraj"
-healthcare,Susmit
+person,domain
+Aditya,insurance
+Bob,insurance
+Prakash,insurance
+James,insurance
+Daniel,insurance
+Sara,travel
+Stephan,travel
+Dan,credit risk
+Lex,credit risk
+Josh,credit risk
+Sam,finanace
+Ross,finanace
+James,finanace
+Daniel,finanace
+Josh,logistics
+Bob,banking
+Dhiraj,banking
+Aditya,healthcare
+Susmit,healthcare
+Dhiraj,healthcare
+Mike,healthcare
+Stephan,healthcare
+Daniel,healthcare
+Dan,bfsi
+Dan,retail
+Ross,retail
+Sara,retail
+Prakash,customer service
+Mike,customer service
