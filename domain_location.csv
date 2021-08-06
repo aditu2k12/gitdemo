@@ -1,0 +1,16 @@
+domain,location
+"insurance,healthcare",delhi
+"banking,insurance",delhi
+"insurance,customer service",mumbai
+healthcare,bangalore
+"banking,healthcare",mumbai
+finanace,chennai
+"bfsi,retail,credit risk",delhi
+"retail,finanace",bangalore
+credit risk,gurgaon
+"logistics,credit risk",chennai
+"travel,retail",mumbai
+"customer service,healthcare",gurgaon
+"insurance,finanace",bangalore
+"healthcare,travel",gurgaon
+"finanace,insurance,healthcare",mumbai

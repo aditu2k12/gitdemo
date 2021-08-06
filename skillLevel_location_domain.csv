@@ -1,0 +1,16 @@
+skill_level,location,domain
+"Computer Vision L1,Machine Learning L1",delhi,"insurance,healthcare"
+"Machine Learning L1,Machine Learning L2",delhi,"banking,insurance"
+Machine Learning L1,mumbai,"insurance,customer service"
+"MlOps On Open Source L2,Computer Vision L1",bangalore,healthcare
+"MlOps On AWS L1,Computer Vision L3",mumbai,"banking,healthcare"
+"MlOps On AWS L2,Machine Learning L2",chennai,finanace
+"Machine Learning L3,Computer Vision L2",delhi,"bfsi,retail,credit risk"
+"MlOps On Open Source L2,Computer Vision L1",bangalore,"retail,finanace"
+"Machine Learning L2,MlOps On AWS L2",gurgaon,credit risk
+"MlOps On AWS L1,Computer Vision L3",chennai,"logistics,credit risk"
+"Machine Learning L4,Computer Vision L3",mumbai,"travel,retail"
+"MlOps On Open Source L3,Computer Vision L4",gurgaon,"customer service,healthcare"
+"Machine Learning L2,MlOps On AWS L3",bangalore,"insurance,finanace"
+"Machine Learning L2,Computer Vision L1",gurgaon,"healthcare,travel"
+MlOps On Open Source L1,mumbai,"finanace,insurance,healthcare"

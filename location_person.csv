@@ -1,4 +1,6 @@
-location,name
-delhi,"Aditya,Bob"
-mumbai,"Prakash,Dhiraj"
-bangalore,Susmit
+location,person
+bangalore,"Susmit,Ross,James"
+chennai,"Sam,Josh"
+delhi,"Aditya,Bob,Dan"
+gurgaon,"Lex,Mike,Stephan"
+mumbai,"Prakash,Dhiraj,Sara,Daniel"
