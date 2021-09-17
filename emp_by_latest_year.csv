@@ -1,0 +1,68 @@
+name,joining_date,Allocation_last_date,reference_year,designation,reporting_manager,location,domain,expInOrg,certifications,rating,skills,joinee_type,status,phone,previous_projects,appraisal,accounts_worked,emp_satis_survey_result,sick_leave,paid_leave,casual_leave,promotions,role,skill_level
+Akshay,8/11/2018,4/21/2021,2021,GCM4,Arun,Pune,Telecom,4,AI102,6,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,semantic segmentation,Image classification
+",Lateral,Active,98732,Siemens,h2,Autonomous,happy,2,0,1,no,machine learning engineer,Computer Vision S3
+Ansup,6/6/2018,6/16/2021,2021,GCM5,Rahul,Bangalore,Banking,4,AI900,6,"Array,Matrix,Pandas,Classification,Regression,Clustering,Big Data,Hadoop,ANN,CNN,RNN,LSTM
+
+",Lateral,Active,10234,Siemens,h2,Autonomous,happy,2,0,1,yes,data engineer,Python S4
+Arvind,6/1/2018,7/7/2019,2019,GCM2,Manish,Bangalore,E-commerce,2,NO CERTIFICATE,5,"Matplotlib,SeaBorn,Exception handling.Histogram
+
+",Fresher,Inactive,98765,EagleCreek,h1,Autonomous,neutral,2,0,0,no,python developer,Python S1
+Ashish,7/17/2018,5/10/2021,2021,GCM4,Rahul,Bangalore,Banking,4,DP900,6,"Matplotlib,SeaBorn,Exception handling.Histogram,Numpy,Pandas,Classification,Time Series,Regression
+
+",Fresher,Active,98732,EagleCreek,h2,RPA,happy,0,2,2,yes,data engineer,Python S3
+Ashu,2/2/2019,6/11/2021,2021,GCM5,Snehasish,Mumbai,Finance,3,NO CERTIFICATE,5,"Standardization,Normalization,Bayes theorem,KNN,K-Means,Bagging,Boosting,GCP",Lateral,Active,98732,BOA,h1,Autonomous,happy,1,3,1,yes,data engineer,AI S3
+Avesh,4/3/2018,7/12/2021,2021,GCM3,Snehasish,Bangalore,Finance,4,NO CERTIFICATE,6,"Opencv,pillow,edge detection,photo sketching,image classification,ocr,yolo,resnet",Lateral,Active,10234,EagleCreek,h1,IDP,happy,3,3,0,no,data engineer,Computer Vision S4
+Ben,8/3/2017,8/13/2021,2021,GCM5,Parta,Bangalore,Telecom,5,NO CERTIFICATE,4,"plotly,Matplotlib,Seaborn,univariate,multivariate,PCA,Django,Flask,Streamlit,NOSQL,MongoDB
+
+",Lateral,Active,34567,Citi Bank,h1,Autonomous,neutral,3,3,3,no,data architect,Machine Learning S3
+Chaitali,8/8/2019,9/14/2021,2021,GCM3,Manish,Bangalore,E-commerce,3,NO CERTIFICATE,4,"pillow,tensorflow,keras,Image Processing,Pose Estimation
+",Fresher,Active,98765,Citi Bank,h1,Autonomous,happy,1,0,0,yes,data engineer,Computer Vision S2
+Deepak,5/11/2017,10/15/2021,2021,GCM3,Pawan,Bangalore,Insurance,5,AI900,5,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,Pose Estimation,ocr,image classification,edge detection,yolo,resnet
+",Fresher,Inactive,56789,EagleCreek,h1,Autonomous,not happy,3,2,2,no,mlops engineer,Computer Vision S4
+Dhiroj,6/30/2017,5/20/2021,2021,GCM5,Pawan,Bangalore,Insurance,5,NO CERTIFICATE,6,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,Pose Estimation,ocr,image classification,edge detection,yolo,resnet
+",Lateral,Inactive,98732,Siemens,h2,IDP,happy,0,3,1,no,mlops engineer,Computer Vision S4
+Harish,2/12/2019,6/21/2021,2021,GCM3,Rahul,Chennai,Banking,3,AI900,5,"Opencv,Tensorflow,Keras,pytorch,Photo Sketching,Detecting Contours,
+Collage Mosaic Generator
+",Lateral,Active,12345,EagleCreek,h1,IDP,happy,2,0,3,yes,machine learning engineer,Computer Vision S2
+Jacob,3/9/2019,7/22/2021,2021,GCM3,Pawan,Pune,Insurance,3,AI900,6,"plotly,Matplotlib,Seaborn,univariate,multivariate,PCA,Django,Flask
+
+",Fresher,Active,98732,Apple,h1,IDP,happy,3,1,3,yes,data architect,Machine Learning S3
+Manish,10/7/2017,8/23/2021,2021,GCM6,Rahul,Bangalore,E-commerce,5,GCP3,6,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,Pose Estimation,ocr,image classification,edge detection,yolo,resnet
+",Lateral,Active,98732,Citi Bank,h1,RPA,happy,0,2,0,no,computer vision engineer,Computer Vision S4
+Martin,6/5/2018,9/24/2021,2021,GCM4,Pratik,Pune,Finance,4,NO CERTIFICATE,5,"plotly,Matplotlib,Seaborn,univariate,multivariate,PCA,Flask,Django
+
+",Lateral,Active,34567,Siemens,h1,RPA,happy,1,3,0,no,data architect,Machine Learning S3
+Morgan,5/5/2020,10/25/2021,2021,GCM3,Pratik,Mumbai,Insurance,2,NO CERTIFICATE,4,"Highcharts,D3,plotly,SVD,PCA,flask
+",Lateral,Active,34567,Nokia,h1,IDP,neutral,3,0,2,no,machine learning engineer,Machine Learning S3
+Prakash,9/12/2017,3/27/2021,2021,GCM4,Snehasish,Bangalore,Finance,5,AI102,6,"Opencv,pillow,edge detection,photo sketching,image classification,ocr,yolo,resnet",Fresher,Active,10234,Fedex,h2,RPA,neutral,3,0,2,no,mlops engineer,Computer Vision S4
+Raj,8/1/2020,4/28/2021,2021,GCM2,Partha,Pune,Telecom,2,AZ900,5,"fillling missing values,preprocessing data,Bayes theorem,Standardization,Normalization",Fresher,Active,12345,Citi Bank,h2,RPA,happy,1,0,3,no,mlops engineer,A1 S1
+Rajendra,7/31/2018,7/6/2020,2020,GCM5,Snehasish,Mumbai,Finance,3,NO CERTIFICATE,6,"Standardization,Normalization,Bayes theorem,KNN,K-Means,Bagging,Boosting,Cross Validation,Pruning<AWS",Lateral,Inactive,98732,Siemens,h1,RPA,happy,2,0,2,yes,data architect,AI S3
+Ravi,4/12/2017,4/18/2021,2021,GCM5,Partha,Bangalore,Insurance,5,AI100,6,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,Pose Estimation,HOG,Semantic Segmantation
+",Lateral,Active,98765,EagleCreek,h1,IDP,happy,2,1,0,yes,machine learning engineer,Computer Vision S3
+Roshan,4/30/2018,5/19/2021,2021,GCM4,Pawan,Bangalore,Insurance,4,NO CERTIFICATE,4,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow,Face Recognition,Face Detection,Pose Estimation,ocr,image classification,edge detection,yolo,resnet
+",Lateral,Inactive,98765,BOA,h1,Autonomous,not happy,0,3,0,no,machine learning engineer,Computer Vision S4
+SIba,3/31/2017,10/1/2019,2019,GCM4,Rahul,Bangalore,Banking,3,AI900,6,"Array,Matrix,Pandas,Classification,Regression,Clustering,Big Data,Hadoop
+
+",Lateral,Inactive,98765,Fedex,h2,IDP,neutral,2,3,3,no,python developer,Python S4
+Sambit,9/1/2019,9/9/2021,2021,GCM3,Pratik,Mumbai,Insurance,3,NO CERTIFICATE,5,"Matplotlib,SeaBorn,Looping,Pandas, Numpy,Decision Making,Clustering,Market Basket Analysis
+
+
+",Fresher,Active,98765,BOA,h1,RPA,not happy,3,2,2,no,mlops engineer,Python S3
+Sanjay,7/7/2017,10/9/2021,2021,GCM4,Pratik,Mumbai,Insurance,5,NO CERTIFICATE,4,"Matplotlib,Numpy,Pandas,Classification,Regression,clustering
+
+",Lateral,Active,56789,Apple,h2,RPA,not happy,1,3,2,yes,mlops engineer,Python S3
+Sanket,5/31/2018,4/13/2020,2020,GCM3,Partha,Pune,Telecom,3,NO CERTIFICATE,5,"Opencv,Tensorflow,Keras,pytorch,Edge detection,Image Processing,Face detection",Lateral,Inactive,56789,EagleCreek,h1,RPA,happy,1,2,0,no,mlops engineer,Computer Vision S2
+Siba,3/31/2017,5/14/2020,2020,GCM4,Pratik,Bangalore,Insurance,4,NO CERTIFICATE,5,"Array,Matrix,Pandas,Classification,Regression,Clustering,Big Data,Hadoop,ANN,CNN,RNN
+
+",Lateral,Inactive,98765,EagleCreek,h1,IDP,not happy,1,1,0,no,data engineer,Python S4
+Sourabh,5/16/2019,3/1/2021,2021,GCM3,Rahul,Chennai,Banking,3,DP100,6,"Opencv,Tensorflow,Keras,pytorch,Edge detection,Image Processing,Face detection,Video classification,HOG",Lateral,Active,10234,Fedex,h2,IDP,happy,0,2,3,yes,data scientist,Computer Vision S3
+Stuart,6/5/2018,4/17/2021,2021,GCM4,Pawan,Chennai,Insurance,4,GCP3,5,"plotly,Matplotlib,Seaborn,univariate,multivariate,PCA,Django,Flask,Streamlit,NOSQL,MongoDB,Deep Learning,CNN,ANN
+
+",Fresher,Active,10234,Apple,h1,IDP,happy,2,1,2,yes,data engineer,Machine Learning S4
+Subrat,7/1/2018,6/19/2020,2020,GCM3,Pratik,Mumbai,Insurance,3,NO CERTIFICATE,5,"plotly,Matplotlib,Seaborn,univariate,multivariate,PCA,Flask,Django
+
+",Fresher,Inactive,34567,Nokia,h2,RPA,neutral,3,1,3,yes,data scientist,Machine Learning S3
+Swathi,7/9/2019,6/27/2021,2021,GCM3,Indu,Chennai,Banking,3,AZ900,4,"Opencv,Pillow,Dlib,Pyaudio,Keras,Tensorflow",Fresher,Active,10234,BOA,h2,Autonomous,not happy,2,2,2,no,computer vision engineer,Computer Vision S1
+Tapas,2/7/2019,7/27/2021,2021,GCM4,Snehasish,Mumbai,Finance,3,NO CERTIFICATE,6,"Matplotlib,Numpy,Pandas,Classification,Regression,Hadoop,Pyspark,CNN,ANN,LSTM
+
+",Lateral,Active,98765,EagleCreek,h2,RPA,happy,2,1,2,yes,mlops engineer,Python S4
